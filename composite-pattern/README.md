@@ -1,0 +1,3 @@
+- Objects use other objects through embedding
+- Composition makes compound object creation easier
+- Treats composite and scalar objects uniformly
