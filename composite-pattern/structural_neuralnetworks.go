@@ -48,6 +48,8 @@ func main() {
 
 	//neuron1.ConnectTo(&neuron2)
 
+	// The same Connect should be applicable to neuron layers, as well as individual neurons, or a combination
+	// of neuron and neuron layer
 	Connect(neuron1, neuron2)
 	Connect(neuron1, layer1)
 	Connect(layer2, neuron1)
