@@ -1,0 +1,5 @@
+- Take in an object, and augment functionality
+- Do not rewrite or alter existing code
+- New Functionality needs to be separate
+- Uses embedding
+- Often used to emulate multiple inheritance - but this may require extra work
