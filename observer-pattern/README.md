@@ -1,0 +1,4 @@
+- Event notification pattern
+- Generate and listen to events
+    - Observable - Entity generating the events
+    - Observer - What wishes to be informed about the events
