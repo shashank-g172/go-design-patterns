@@ -1,0 +1,4 @@
+- Higher and Lower level parts of the system need to work together
+- There are different algorithms reused in different parts of the system
+- Separate an algorithm into the skeleton parts and the concrete implementation steps - that can be varied at run time
+- Support the injection of the strategy into the high-level algorithm
