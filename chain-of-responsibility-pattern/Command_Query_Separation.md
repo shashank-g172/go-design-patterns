@@ -1,0 +1,2 @@
+- Command - Wrap command inside action or change, changes state
+- Query - immutable and does not change state
