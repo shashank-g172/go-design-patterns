@@ -20,8 +20,7 @@ Types of design patterns:
 - Command
 - Interpreter
 - Iterator
- -Mediator
+- Mediator
 - Observer
-- State
 - Strategy
 - Visitor
