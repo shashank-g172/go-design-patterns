@@ -21,7 +21,6 @@ Types of design patterns:
 - Interpreter
 - Iterator
  -Mediator
-- Memento
 - Observer
 - State
 - Strategy
