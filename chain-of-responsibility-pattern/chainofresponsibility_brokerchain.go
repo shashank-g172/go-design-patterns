@@ -121,6 +121,7 @@ func main() {
 	{
 		m := NewDoubleAttackModifier(game, goblin)
 		fmt.Println(goblin.String())
+		// Unsubscribe it from any handlers of the Attack value query
 		m.Close()
 	}
 
