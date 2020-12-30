@@ -1,0 +1,6 @@
+- Same interface, different behavior
+- Interface to a particular resource, the resource may require special set up
+- Difference between Proxy and Decorator:
+    - Proxy tries to make an identical interface, decorator provides an enhanced interface
+    - Decorator usually has a pointer to the underlying struct it is decorating, Proxy doesn't have to
+    - A Proxy may be working with an uninitialized struct
