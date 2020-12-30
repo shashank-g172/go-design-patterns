@@ -1,0 +1,3 @@
+- Encapsulate all details of an operation into a separate object
+- Define functions for applying the command 
+- Define instructions for undoing the command
