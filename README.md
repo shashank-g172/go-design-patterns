@@ -23,4 +23,5 @@ Types of design patterns:
 - Mediator
 - Observer
 - Strategy
+- Template
 - Visitor
