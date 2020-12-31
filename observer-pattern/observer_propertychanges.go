@@ -45,6 +45,7 @@ type PropertyChanged struct {
 	Value interface{}
 }
 
+// This pattern has some issues.
 func (p *Person) Age() int { return p.age }
 func (p *Person) SetAge(age int) {
 	if age == p.age {

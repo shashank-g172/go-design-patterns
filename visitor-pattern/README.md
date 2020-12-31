@@ -1,0 +1,4 @@
+- We need to define a new operation on an entire type hierarchy
+- Used for tree traversal (alternative to Iterator)
+- Implemented by propagating a single Accept() method throughout the entire hierarchy
+- Go does not support function overloading
