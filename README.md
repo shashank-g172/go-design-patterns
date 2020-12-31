@@ -5,23 +5,28 @@ Concepts to be familiar with as reading through: https://eli.thegreenplace.net/2
 
 Types of design patterns:
 
-- Builder
-- Factory
-- Prototype
-- Singleton
-- Adapter
-- Bridge
-- Composite
-- Decorator
-- Facade
-- Flyweight
-- Proxy
-- Chain of Responsibility
-- Command
-- Interpreter
-- Iterator
-- Mediator
-- Observer
-- Strategy
-- Template
-- Visitor
+- Creational
+    - Builder
+    - Factory
+    - Prototype
+    - Singleton
+
+- Structural
+    - Adapter
+    - Bridge
+    - Composite
+    - Decorator
+    - Facade
+    - Flyweight
+    - Proxy
+
+- Behavioral
+    - Chain of Responsibility
+    - Command
+    - Interpreter
+    - Iterator
+    - Mediator
+    - Observer
+    - Strategy
+    - Template
+    - Visitor
