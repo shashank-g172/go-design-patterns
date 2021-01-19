@@ -30,3 +30,5 @@ Types of design patterns:
     - Strategy
     - Template
     - Visitor
+    
+Feel free to use this code as you see fit! Happy Go-ing!
