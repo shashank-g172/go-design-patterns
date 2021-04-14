@@ -1,5 +1,7 @@
 package main
 
+/* Single Respnsibility Principle */
+
 import (
 	"fmt"
 	"io/ioutil"
