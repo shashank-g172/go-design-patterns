@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// combination of OCP and Repository demo
+// combination of Open-closed principle and Repository demo
 
 type Color int
 
